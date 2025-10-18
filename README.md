@@ -88,7 +88,9 @@ untuk mengetahui alur dari analisis sentimen itu sendiri
 ## 🧠 Author
 
 **Nama:** Jujun Munawar
+
 **Institusi:** Institut Teknologi Garut
+
 **Deskripsi:** Aplikasi ini dibuat untuk mengamati persepsi pengguna terhadap game Brawl Stars dengan pendekatan *Machine Learning* dan *Natural Language Processing (NLP)*.
 
 
