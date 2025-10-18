@@ -79,9 +79,14 @@ Langkah-langkahnya:
 
 ---
 
+## Integrasi IBM Granite AI
+<img width="1920" height="1080" alt="Pengunaan IBM Granite" src="https://github.com/user-attachments/assets/7a89072b-12b5-4e32-93e7-6653cedc7141" />
+untuk mengetahui alur dari analisis sentimen itu sendiri
+
+
 ## 🧠 Author
 
-**Nama:** Jujun Office
+**Nama:** Jujun Munawar
 **Institusi:** Institut Teknologi Garut
 **Deskripsi:** Aplikasi ini dibuat untuk mengamati persepsi pengguna terhadap game Brawl Stars dengan pendekatan *Machine Learning* dan *Natural Language Processing (NLP)*.
 
