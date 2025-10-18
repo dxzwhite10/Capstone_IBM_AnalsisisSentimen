@@ -83,6 +83,7 @@ Langkah-langkahnya:
 <img width="1920" height="1080" alt="Pengunaan IBM Granite" src="https://github.com/user-attachments/assets/7a89072b-12b5-4e32-93e7-6653cedc7141" />
 untuk mengetahui alur dari analisis sentimen itu sendiri
 
+---
 
 ## 🧠 Author
 
